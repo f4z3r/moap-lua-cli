@@ -1,0 +1,5 @@
+#!/usr/bin/env luajit
+
+local mycli = require("my-cli")
+
+mycli.main()
